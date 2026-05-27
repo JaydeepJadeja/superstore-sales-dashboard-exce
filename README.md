@@ -1,92 +1,41 @@
-📊 Superstore Sales Analysis Dashboard | Excel Data Analytics Project
+# 📊 Superstore Sales Analysis Dashboard
 
-An interactive Excel Dashboard Project built to analyze Superstore retail sales data and generate actionable business insights using data visualization and reporting techniques.
+An interactive Excel dashboard project focused on analyzing Superstore sales data and generating business insights using data visualization techniques.
 
-This project demonstrates practical Data Analytics, Business Intelligence, and Dashboard Development skills commonly used by Data Analysts in real-world business environments.
+## 🚀 Objective
+The goal of this project was to transform raw sales data into an interactive dashboard to track business performance, sales trends, regional growth, and category profitability.
 
-🚀 Project Objective
+## 🛠️ Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
+- Data Visualization
 
-The objective of this project was to analyze retail sales performance and build an interactive dashboard that helps stakeholders:
+## 📌 Features
+- Region-wise sales analysis
+- Category & sub-category performance
+- Monthly sales trends
+- Interactive filters using slicers
+- KPI cards for Sales, Profit, and Orders
 
-Monitor overall business performance
-Track sales and profit KPIs
-Identify high-performing regions and categories
-Analyze monthly sales trends
-Make data-driven business decisions
+## 📈 Key Insights
+- Technology category generated the highest sales.
+- Some categories had high sales but low profit margins.
+- Regional analysis helped identify top-performing markets.
+- Monthly trends revealed seasonal sales patterns.
 
-The project focuses on transforming raw sales data into meaningful insights through visualization and analytics.
-
-📁 Dataset Information
-
-The dataset contains retail sales transaction data including:
-
-Orders
-Sales
-Profit
-Customer segments
-Product categories
-Regions
-Order dates
-
-The data was cleaned, organized, and analyzed in Microsoft Excel.
-
-🛠️ Tools & Technologies Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-KPI Cards
-Conditional Formatting
-Data Cleaning
-Dashboard Design
-Business Analysis
-📌 Key Dashboard Features
-✅ KPI Cards
-
-Designed KPI cards to display important business metrics:
-
-Total Sales
-Total Profit
-Total Orders
-Average Order Value
-✅ Region-wise Sales Analysis
-
-Analyzed sales and profit across different regions to identify:
-
-Best-performing regions
-Low-performing markets
-Regional sales contribution
-✅ Category & Sub-category Performance
-
-Performed category-level analysis to understand:
-
-Top-selling categories
-Most profitable products
-Low-profit segments
-Product performance comparison
-✅ Monthly Sales Trend Analysis
-
-Created monthly trend visualizations to identify:
-
-Seasonal sales patterns
-Growth trends
-Peak sales periods
-Revenue fluctuations
-✅ Interactive Dashboard
-
-Implemented interactive features using:
-
-Slicers
-Dynamic filtering
-Interactive charts
-
-This allows users to explore the data efficiently.
-
-📈 Business Insights Generated
-Technology category contributed the highest revenue.
-Some product categories showed high sales but lower profitability.
-Western region performed strongly in overall sales.
-Monthly analysis revealed seasonal demand fluctuations.
-Interactive filtering improved dashboard usability and reporting efficiency.
 ## Dashboard Preview
 <img width="1201" height="452" alt="Screenshot 2026-05-07 123023" src="https://github.com/user-attachments/assets/6ce5710f-f3db-49d4-b47f-551ed63ea082" />
+
+## 🎯 Skills Demonstrated
+- Data Cleaning
+- Dashboard Design
+- Business Analysis
+- Data Visualization
+- Analytical Thinking
+
+## 📚 Conclusion
+This project helped me improve my Excel, dashboarding, and business analytics skills while learning how to convert raw data into meaningful insights.
+
